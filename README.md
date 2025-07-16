@@ -1,0 +1,2 @@
+# Swiggy-Instamart-Data-Analysis-Project-POWER-BI-EXCEL-
+A data analysis project on Swiggy Instamart Mobile Sales using Power BI and Excel. Cleaned and transformed raw data, built interactive dashboards showcasing item-wise sales, outlet performance, and seasonal trends. Delivered insights on customer behavior, outlet types, and product distribution to support business strategy and decision-making
